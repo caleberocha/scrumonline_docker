@@ -1,7 +1,7 @@
-# Scrum Poker
+# Scrum Poker Online
 
 Uso:
 
-	sudo docker-compuse up --build -d
+	sudo docker-compose up --build -d
 
-Na primeira execução execute o script createdb.sh para criar o BD.
+Na primeira execução execute o script ```createdb.sh``` para criar o BD.
